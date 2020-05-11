@@ -1,0 +1,11 @@
+D:\Documents\MODUL\Produktif\Pemrograman Dasar\VB\klinik\klinik\bin\Debug\klinik.exe.config
+D:\Documents\MODUL\Produktif\Pemrograman Dasar\VB\klinik\klinik\bin\Debug\klinik.exe
+D:\Documents\MODUL\Produktif\Pemrograman Dasar\VB\klinik\klinik\bin\Debug\klinik.pdb
+D:\Documents\MODUL\Produktif\Pemrograman Dasar\VB\klinik\klinik\bin\Debug\klinik.xml
+D:\Documents\MODUL\Produktif\Pemrograman Dasar\VB\klinik\klinik\obj\Debug\klinik.vbprojAssemblyReference.cache
+D:\Documents\MODUL\Produktif\Pemrograman Dasar\VB\klinik\klinik\obj\Debug\klinik.Form1.resources
+D:\Documents\MODUL\Produktif\Pemrograman Dasar\VB\klinik\klinik\obj\Debug\klinik.Resources.resources
+D:\Documents\MODUL\Produktif\Pemrograman Dasar\VB\klinik\klinik\obj\Debug\klinik.vbproj.GenerateResource.cache
+D:\Documents\MODUL\Produktif\Pemrograman Dasar\VB\klinik\klinik\obj\Debug\klinik.exe
+D:\Documents\MODUL\Produktif\Pemrograman Dasar\VB\klinik\klinik\obj\Debug\klinik.xml
+D:\Documents\MODUL\Produktif\Pemrograman Dasar\VB\klinik\klinik\obj\Debug\klinik.pdb
